@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "6a0d57f3-6535-4474-9a53-08f629a2aa7c",
+    "Code": "usermanual.log.index",
+    "Content": {
+      "Id": "6a0d57f3-6535-4474-9a53-08f629a2aa7c"
+    }
+  },
+  {
+    "Id": "95eac1f2-a193-4c42-8de3-7a1c9b18abea",
+    "Code": "usermanual.user.index",
+    "Content": {
+      "Id": "95eac1f2-a193-4c42-8de3-7a1c9b18abea"
+    }
+  },
+  {
+    "Id": "4351f67e-8262-4de6-8efa-221ef7810b00",
+    "Code": "usermanual.userprofile.index",
+    "Content": {
+      "Id": "4351f67e-8262-4de6-8efa-221ef7810b00"
+    }
+  }
+]

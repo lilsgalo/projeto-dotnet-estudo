@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "userprofile",
+    "Value": "create"
+  },
+  {
+    "Type": "userprofile",
+    "Value": "delete"
+  },
+  {
+    "Type": "userprofile",
+    "Value": "list"
+  },
+  {
+    "Type": "userprofile",
+    "Value": "update"
+  },
+  {
+    "Type": "userprofile",
+    "Value": "deactivate"
+  }  
+]

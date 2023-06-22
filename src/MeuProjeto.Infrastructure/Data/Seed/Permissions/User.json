@@ -1,0 +1,26 @@
+[
+  {
+    "Type": "user",
+    "Value": "create"
+  },
+  {
+    "Type": "user",
+    "Value": "delete"
+  },
+  {
+    "Type": "user",
+    "Value": "list"
+  },
+  {
+    "Type": "user",
+    "Value": "update"
+  },
+  {
+    "Type": "user",
+    "Value": "deactivate"
+  },
+  {
+    "Type": "user",
+    "Value": "changeuserpassword"
+  }
+]

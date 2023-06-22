@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "95eac1f2-a193-4c42-8de3-7a1c9b18abea",
+    "UserName": "admin",
+    "NormalizedUserName": "ADMIN",
+    "EmailConfirmed": "false",
+    "PhoneNumberConfirmed": "false",
+    "TwoFactorEnabled": "false",
+    "LockoutEnabled": "false",
+    "AccessFailedCount": "0",
+    "Deleted": "false",
+    "Active": "true",
+    "Area": {
+      "Id": "95eac1f2-a193-4c42-8de3-7a1c9b18abea"
+    }
+  }
+]

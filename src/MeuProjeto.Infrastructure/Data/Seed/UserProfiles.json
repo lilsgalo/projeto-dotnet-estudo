@@ -1,0 +1,21 @@
+[
+  {
+    "Id": "4ca69289-42a2-4b4a-9845-cb8a7b558c77",
+    "Name": "ENGINER",
+    "Active": "True",
+    "Permissions": [
+      {
+        "Type": "user",
+        "Value": "delete"
+      },
+      {
+        "Type": "user",
+        "Value": "list"
+      },
+      {
+        "Type": "user",
+        "Value": "update"
+      }
+    ]
+  }
+]

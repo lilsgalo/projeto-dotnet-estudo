@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Type": "settings",
+    "Value": "view"
+  },
+  {
+    "Type": "settings",
+    "Value": "list"
+  },
+  {
+    "Type": "settings",
+    "Value": "update"
+  }
+]

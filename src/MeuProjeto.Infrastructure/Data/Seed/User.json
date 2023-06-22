@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "95eac1f2-a193-4c42-8de3-7a1c9b18abea",
+    "Name": "Admin User",
+    "UserName": "admin",
+    "Password": "@123Qwe",
+    "Email": "admin@admin.com",
+    "PhoneNumber": "7799998888",
+    "AreaId": "95eac1f2-a193-4c42-8de3-7a1c9b18abea",
+    "ProfileId": "95eac1f2-a193-4c42-8de3-7a1c9b18abea",
+    "Permissions": [
+      {
+        "Type": "user",
+        "Value": "delete"
+      },
+      {
+        "Type": "user",
+        "Value": "create"
+      },
+      {
+        "Type": "user",
+        "Value": "list"
+      },
+      {
+        "Type": "user",
+        "Value": "update"
+      }
+    ]
+  }
+]

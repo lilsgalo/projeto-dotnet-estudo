@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/MeuProjeto.Api/bin/Debug/netcoreapp3.1
+/src/MeuProjeto.Api/bin/Debug/net6.0
+/src/MeuProjeto.Api/obj
+/src/MeuProjeto.Business/bin/Debug/netcoreapp3.1
+/src/MeuProjeto.Business/bin/Debug/net6.0
+/src/MeuProjeto.Business/obj
+/src/MeuProjeto.Infrastructure/bin/Debug/netcoreapp3.1
+/src/MeuProjeto.Infrastructure/bin/Debug/net6.0
+/src/MeuProjeto.Infrastructure/obj
